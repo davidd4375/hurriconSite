@@ -1,4 +1,4 @@
- body {
+body {
   background-color: black;
 }
 h1 {
@@ -11,14 +11,12 @@ p {
   display: flex;
   justify-content: center;
 }
-
 .ImageBorder
 {
     border-width: 100px;
     border-color: red;
     max-width: 35%;
 }
-
 .italic
 {
     font-style: italic;
