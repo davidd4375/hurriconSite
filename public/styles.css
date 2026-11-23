@@ -9,6 +9,11 @@ h1 {
     display: flex;
     justify-content: center;
 }
+h2 {
+    color: white;
+    display: flex;
+    justify-content: center;
+}
 p {
     color: white;
     display: flex;
@@ -29,7 +34,7 @@ a:visited {
 {
     border-width: 100px;
     border-color: red;
-    max-width: 35%;
+    max-width: 25%;
 }
 .italic
 {
