@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+    background-image: url("darkBackground.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+h2 {
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+p {
+    color: white;
+    display: flex;
+    justify-content: left;
+    padding-left: 80px;
+}
+p span {
+    font-weight: bold;
+    color: crimson;
+}
+a:link {
+    color: rgb(0, 212, 0);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(0, 212, 0);
+    background-color: transparent;
+    text-decoration: none;
+}
+.ImageBorder
+{
+    border-width: 100px;
+    border-color: red;
+    max-width: 25%;
+}
+.italic
+{
+    font-style: italic;
+}
